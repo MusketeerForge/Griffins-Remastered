@@ -5,8 +5,6 @@
 
 *Multiplayer focused • Solo capable • Fully voiced • Story driven*
 
----
-
 ## About the Campaign
 
 In May 2022, **Dagobert666** released the original *Griffins* multiplayer Apache campaign. It was an exceptional piece of cooperative DCS content.
@@ -21,7 +19,6 @@ What began as an effort to replace some voiceovers grew into something much larg
 
 This remains, first and foremost, Dagobert666's creation. Griffin's Remastered exists because he generously allowed me to take his work apart, understand it, rebuild portions of it, and put it back together in a different form.
 
----
 
 ## What's Different in the Remaster?
 
@@ -55,7 +52,6 @@ Much of the original trigger architecture was rewritten.
 
 Numeric flags were replaced with descriptive variables, mission logic was reorganized, and Mission Editor comment blocks were added throughout the missions. This made the campaign easier to understand, debug, maintain, and extend while preserving the intent of the original mission design.
 
----
 
 ## Designed for Cooperative DCS
 
@@ -67,8 +63,6 @@ Radio-menu interactions are shared at the mission level. When a mission requires
 
 The campaign has been flown repeatedly by multiple multiplayer groups, including Dagobert666's own crew.
 
----
-
 ## Solo Play
 
 Although multiplayer is the primary experience, **the entire campaign can be played solo**.
@@ -79,7 +73,6 @@ Some scenarios will naturally be considerably more difficult alone. The campaign
 
 No Mission Editor conversion is required simply to play the campaign solo.
 
----
 
 ## Backup Aircraft
 
@@ -91,7 +84,6 @@ These aircraft allow a downed player to rejoin the fight more quickly.
 
 There is one important limitation: the original mission trigger architecture was not completely redesigned around replacement aircraft. If every player is killed and everyone subsequently occupies backup aircraft, some later voiceover or mission-ending triggers may not behave as intended.
 
----
 
 ## Missions
 
@@ -112,7 +104,6 @@ Each mission includes a separate briefing PDF.
 
 Mission filenames remain stable between releases. Mission versions are tracked independently and are recorded within the first trigger comment of each mission.
 
----
 
 ## Downloads
 
@@ -141,7 +132,15 @@ Individual packages provide a lower-bandwidth installation option and allow exis
 
 Players with limited or metered bandwidth can also install the campaign incrementally by downloading individual mission packages rather than the complete campaign at once.
 
----
+
+## Support & Feedback
+
+For questions, bug reports, feedback, or discussion about Griffin's Remastered, please use the campaign's thread on the Eagle Dynamics forums:
+
+**[Griffin's MP Campaign: Remastered — DCS World Forums](https://forum.dcs.world/topic/351140-griffins-mp-campaign-remastered/)**
+
+The forum is the preferred contact point for campaign support. Keeping questions and answers there allows other DCS players to find and benefit from the discussion.
+
 
 ## Content Warning
 
@@ -151,7 +150,6 @@ The remaster continues that tradition.
 
 **This campaign contains frequent adult language throughout its ten missions.** Players who prefer a sanitized radio environment should consider this before downloading.
 
----
 
 ## Credits
 
@@ -190,20 +188,14 @@ And thank you to everyone who has downloaded, flown, discussed, and provided fee
 
 ## History
 
-Griffin's Remastered was originally released through the DCS User Files system beginning in June 2024, with the complete ten-mission campaign released over the following weeks.
+Griffin's Remastered was originally released to the DCS community in June 2024 through the Eagle Dynamics forums and DCS User Files, with the complete ten-mission campaign released over the following weeks.
 
 The campaign is now maintained and distributed by **Musketeer Forge** through GitHub.
 
-The move to GitHub provides a permanent version history and allows campaign releases to support both complete downloads and bandwidth-conscious individual mission updates.
-
-### Original DCS Forum Thread
-
-Griffin's Remastered was originally introduced and discussed on the DCS World forums. The original thread includes development notes, player feedback, and discussion with Dagobert666 and other members of the DCS community.
-
-**[View the original Griffin's Remastered forum thread](https://forum.dcs.world/topic/351140-griffins-mp-campaign-remastered/)**
+The move to GitHub provides a permanent version history and supports both complete campaign downloads and bandwidth-conscious individual mission distribution.
 
 ---
 
 **Musketeer Forge**
 
-**Earned.  Never Given**
+*Earned. Never Given.*
