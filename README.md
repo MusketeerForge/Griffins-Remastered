@@ -120,7 +120,7 @@ Campaign builds are distributed through **GitHub Releases**.
 
 ### Full Campaign
 
-For a new installation, download:
+For a new installation, go to the **[latest GitHub Release](https://github.com/MusketeerForge/Griffins-Remastered/releases/latest)** and download:
 
 **`Griffins_Remastered_Full.zip`**
 
@@ -134,12 +134,12 @@ Every mission is also packaged separately:
 
 Each individual package contains:
 
-* The mission `.miz`
-* The corresponding briefing PDF
+- The mission `.miz`
+- The corresponding briefing PDF
 
 Individual packages provide a lower-bandwidth installation option and allow existing players to download only missions that have changed rather than downloading the complete campaign again.
 
-For the current campaign build, use the **latest GitHub Release**.
+Players with limited or metered bandwidth can also install the campaign incrementally by downloading individual mission packages rather than the complete campaign at once.
 
 ---
 
