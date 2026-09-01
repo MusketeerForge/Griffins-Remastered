@@ -1,4 +1,4 @@
-![Griffin's Remastered — AH-64D Co-op Campaign](assets/images/griffins-banner.jpg)
+![Griffin's Remastered — AH-64D Co-op Campaign](assets/images/Griffins_Banner.jpg)
 # Griffin's Remastered
 
 **A 10-mission DCS AH-64D cooperative campaign for the Persian Gulf**
@@ -187,20 +187,6 @@ Their perspective was particularly valuable: they knew the original campaign bet
 
 And thank you to everyone who has downloaded, flown, discussed, and provided feedback on *Griffin's Remastered* since its original release.
 
-
-### Testing
-
-Special thanks to:
-
-* Dagobert666 and his crew
-* Wulf103
-* Devil 505
-
-These missions were flown and reflown repeatedly during development. Their time, feedback, broken helicopters, and willingness to fly the same scenarios again were instrumental in bringing the remaster to completion.
-
-And thank you to everyone who has downloaded, flown, discussed, and provided feedback on the campaign since its original release.
-
----
 
 ## History
 
