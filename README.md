@@ -196,8 +196,14 @@ The campaign is now maintained and distributed by **Musketeer Forge** through Gi
 
 The move to GitHub provides a permanent version history and allows campaign releases to support both complete downloads and bandwidth-conscious individual mission updates.
 
+### Original DCS Forum Thread
+
+Griffin's Remastered was originally introduced and discussed on the DCS World forums. The original thread includes development notes, player feedback, and discussion with Dagobert666 and other members of the DCS community.
+
+**[View the original Griffin's Remastered forum thread](https://forum.dcs.world/topic/351140-griffins-mp-campaign-remastered/)**
+
 ---
 
 **Musketeer Forge**
 
-*Experiences Worth Earning.*
+**Earned.  Never Given**
