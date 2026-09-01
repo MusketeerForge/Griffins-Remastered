@@ -1,0 +1,66 @@
+{
+  "campaign": "Griffin's Remastered",
+  "campaignVersion": "1.0.0",
+  "missions": {
+    "M00": {
+      "title": "Mayflower",
+      "version": "1.0",
+      "missionFile": "Griffins_M00.miz",
+      "briefingFile": "Griffins_M00_Briefing.pdf"
+    },
+    "M01": {
+      "title": "Snake Run",
+      "version": "1.0",
+      "missionFile": "Griffins_M01.miz",
+      "briefingFile": "Griffins_M01_Briefing.pdf"
+    },
+    "M02": {
+      "title": "Broken Wing",
+      "version": "1.0",
+      "missionFile": "Griffins_M02.miz",
+      "briefingFile": "Griffins_M02_Briefing.pdf"
+    },
+    "M03": {
+      "title": "Slaughterhouse",
+      "version": "1.0",
+      "missionFile": "Griffins_M03.miz",
+      "briefingFile": "Griffins_M03_Briefing.pdf"
+    },
+    "M04": {
+      "title": "Steeplechase",
+      "version": "1.1",
+      "missionFile": "Griffins_M04.miz",
+      "briefingFile": "Griffins_M04_Briefing.pdf"
+    },
+    "M05": {
+      "title": "Moonlight",
+      "version": "1.2",
+      "missionFile": "Griffins_M05.miz",
+      "briefingFile": "Griffins_M05_Briefing.pdf"
+    },
+    "M06": {
+      "title": "Rabbit Jump",
+      "version": "1.1",
+      "missionFile": "Griffins_M06.miz",
+      "briefingFile": "Griffins_M06_Briefing.pdf"
+    },
+    "M07": {
+      "title": "Seraphim",
+      "version": "1.1",
+      "missionFile": "Griffins_M07.miz",
+      "briefingFile": "Griffins_M07_Briefing.pdf"
+    },
+    "M08": {
+      "title": "Playboy",
+      "version": "1.1",
+      "missionFile": "Griffins_M08.miz",
+      "briefingFile": "Griffins_M08_Briefing.pdf"
+    },
+    "M09": {
+      "title": "Daggerfall",
+      "version": "1.1",
+      "missionFile": "Griffins_M09.miz",
+      "briefingFile": "Griffins_M09_Briefing.pdf"
+    }
+  }
+}
