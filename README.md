@@ -1,3 +1,4 @@
+![Griffin's Remastered — AH-64D Co-op Campaign](assets/images/griffins-banner.jpg)
 # Griffin's Remastered
 
 **A 10-mission DCS AH-64D cooperative campaign for the Persian Gulf**
