@@ -94,6 +94,77 @@ Each individual package contains:
 
 Individual packages provide a lower-bandwidth installation option and allow existing players to download only missions that have changed rather than downloading the complete campaign again.  Players with limited or metered bandwidth can also install the campaign incrementally by downloading individual mission packages rather than the complete campaign at once.
 
+## Requirements
+
+### DCS Modules
+
+This campaign requires:
+
+- **DCS: AH-64D**
+- **DCS: Persian Gulf Map**
+
+### Required Mods
+
+**None.**
+
+Griffin's Remastered does not require any third-party mods. The campaign is designed to run using the required DCS modules and standard DCS World content.
+
+## Installation
+
+Griffin's Remastered is designed to run in a **DCS multiplayer server environment**.
+
+The missions may be hosted by one of the players through DCS multiplayer or run on a DCS Dedicated Server.
+
+<table>
+<tr>
+<td width="45%" valign="top">
+
+### Player-Hosted Multiplayer
+
+1. Download the Full Campaign.
+2. Extract the ZIP.
+3. In DCS, navigate to **Mission**.
+4. Select the desired `Griffins_Mxx.miz`.
+5. Select **Launch Multiplayer Server**.
+6. Configure and start the server.
+
+</td>
+<td width="55%" valign="top">
+
+<img src="assets/images/player-hosted-multiplayer.jpg"
+     alt="DCS player-hosted multiplayer mission selection">
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="45%" valign="top">
+
+### DCS Dedicated Server
+
+1. Download and extract **`Griffins_Remastered_Full.zip`** on the server or transfer the extracted files to it.
+2. Place the `.miz` files in a location accessible to the DCS Dedicated Server.
+3. Open the DCS Dedicated Server WebGUI.
+4. Add the desired `Griffins_Mxx.miz` to the server's mission list.
+5. Start the mission and have the players connect normally.
+
+> New to dedicated server hosting? See the **[Eagle Dynamics DCS User Manual](https://www.digitalcombatsimulator.com/upload/iblock/ed6/87v22jwd1xh51i3rgki944xsf503istq/DCS_User_Manual_EN_2020.pdf)** for server setup and multiplayer configuration.
+
+</td>
+<td width="55%" valign="top">
+
+<img src="assets/images/dedicated-server-multiplayer.jpg"
+     alt="DCS Dedicated Server mission setup">
+
+</td>
+</tr>
+</table>
+
+### Solo Play
+
+Although Griffin's Remastered supports solo play, missions must be run through a multiplayer server environment (player hosted or dedicated).
 
 ## Support & Feedback
 
